@@ -1,0 +1,22 @@
+{
+  "name": "halyard-aws",
+  "version": "0.1.0",
+  "author": "halyard",
+  "summary": "Configure AWS files and tools",
+  "license": "MIT",
+  "source": "https://github.com/halyard/puppet-aws",
+  "project_page": "https://github.com/halyard/puppet-aws",
+  "issues_url": "https://github.com/halyard/puppet-aws/issues",
+  "dependencies": [
+
+  ],
+  "operatingsystem_support": [
+    {
+      "operatingsystem": "Darwin",
+      "operatingsystemmajrelease": [
+        "14",
+        "15"
+      ]
+    }
+  ]
+}
