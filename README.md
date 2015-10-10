@@ -5,7 +5,7 @@ aws
 [![MIT Licensed](https://img.shields.io/badge/license-MIT-green.svg)](https://tldrlegal.com/license/mit-license)
 [![Build Status](https://img.shields.io/circleci/project/halyard/puppet-aws.svg)](https://circleci.com/gh/halyard/puppet-aws)
 
-Short description here
+Install aws CLI and [saws](https://github.com/donnemartin/saws)
 
 ## Usage
 
