@@ -8,6 +8,6 @@ class aws (
 
   python::package { 'saws':
     package => 'saws',
-    python  => $pythonenv::default
+    python  => $pythonenv::versions
   }
 }
