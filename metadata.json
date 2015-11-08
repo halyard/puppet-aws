@@ -1,6 +1,6 @@
 {
   "name": "halyard-aws",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "author": "halyard",
   "summary": "Configure AWS files and tools",
   "license": "MIT",
